@@ -2,13 +2,13 @@
 # _*_ coding: utf-8 _*_
 ################################################################################
 #
-# Copyright (c) 2014 Baidu.com, Inc. All Rights Reserved
+# Copyright (c) 2014  All Rights Reserved
 #
 ################################################################################
 """
 This module realizes unit test for mini spider.
 
-Author: weileizhe(weileizhe@baidu.com)
+Author: weileizhe
 Date: 2014/11/12 00:00:06
 """
 
