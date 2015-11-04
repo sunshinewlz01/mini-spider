@@ -2,7 +2,7 @@
 # _*_ coding: utf-8 _*_
 ################################################################################
 #
-# Copyright (c) 2014 Baidu.com, Inc. All Rights Reserved
+# Copyright (c) 2014 All Rights Reserved
 #
 ################################################################################
 """
@@ -10,7 +10,7 @@ This module realizes a mini webpage spider which will crawl the urls matching
 specific pattern through the breadth priority and save the crawled webpages 
 in hard disk.
 
-Author: weileizhe(weileizhe@baidu.com)
+Author: weileizhe
 Date: 2014/11/11 00:00:06
 """
 
